@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 👋, I'm Sukanya Konar</h1>
+<h1 align="center">Hey there 👋, I'm Sukanya Konar!</h1>
 
 <p align="center">
 🌟 Aspiring Software Engineer | AI - ML Enthusiast 🌟  

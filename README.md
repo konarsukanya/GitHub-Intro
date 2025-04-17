@@ -1,4 +1,4 @@
-# GitHub-Intro
+
 <h1 align="center">Hey there 👋, I'm Sukanya Konar</h1>
 
 <p align="center">

@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Sukanya Konar</h1>
 
 <p align="center">
-🌟 Aspiring Software Engineer | Generative AI Enthusiast | Open Source Contributor 🌟  
+🌟 Aspiring Software Engineer | AI - ML Enthusiast 🌟  
 </p>
 
 ---

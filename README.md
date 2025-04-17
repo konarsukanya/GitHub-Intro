@@ -42,7 +42,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukanya-konar&show_icons=true&theme=radical" alt="Sukanya's GitHub stats"/>
+  
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=konarsukanya&theme=radical"/>
 </p>
